@@ -40,6 +40,18 @@ name is *pandemonium* with a *daemon* in it, and *pantheon* close by.
 - **Arcs cross.** Arcs intersect over and over again. Between-arc interjections
   in the Gilliam / Monty Python manner ("Anyway." / "Who said that?") are fine,
   but the comic has its own ethos, not Gilliam's. Arc markers are undecided.
+- **Timelines jump.** Strips go back and forth between arcs and timelines with
+  no bridging. A new strip can pick up any earlier thread right away, and
+  readers will place it.
+- **The author is a stick figure.** When the wall breaks and characters reach
+  the person drawing them, the author appears as a crude stick figure with a
+  pencil and sketchpad. That figure is the author-function, not a person, and
+  it is the only thing on the page drawn in that register. Terry Gilliam and
+  Monetochka are meta layers *inside* the comic, drawn like any other
+  character; they are not the author.
+- **Locally defensible, globally insane.** Every transition makes sense on its
+  own terms, even when the overall topology is absurd. The humor comes from
+  precise compliance with the wrong layer of a request.
 - **Liberties are deliberate.** When the author takes a liberty with canon
   ("R? R."), don't raise it again.
 
