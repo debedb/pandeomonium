@@ -1,0 +1,11 @@
+# Rendered strips, reference photos and run logs stay local; only re-hosted
+# issue images under media/ are tracked.
+*.png
+*.jpg
+*.jpeg
+*.webp
+!media/**/*.jpg
+*.log
+__pycache__/
+.DS_Store
+.media-map.json

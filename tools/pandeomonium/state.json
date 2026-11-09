@@ -1,0 +1,583 @@
+{
+ "new": {
+  "Right of Way": {
+   "id": 5,
+   "media": {
+    "id": 6,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-1.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/22/right-of-way/"
+  },
+  "Upgrade": {
+   "id": 7,
+   "media": {
+    "id": 8,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-2.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/23/upgrade/"
+  },
+  "Directions": {
+   "id": 9,
+   "media": {
+    "id": 10,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-3.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/23/directions/"
+  },
+  "Forking Paths": {
+   "id": 11,
+   "media": {
+    "id": 12,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/guest-samurai-strip.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/23/forking-paths/"
+  },
+  "Ride Confirmed": {
+   "id": 13,
+   "media": {
+    "id": 14,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-4.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/24/ride-confirmed/"
+  },
+  "Roadside Assistance": {
+   "id": 15,
+   "media": {
+    "id": 16,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-5.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/25/roadside-assistance/"
+  },
+  "Works on My Machine": {
+   "id": 17,
+   "media": {
+    "id": 18,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-6.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/26/works-on-my-machine/"
+  },
+  "Either One of Them": {
+   "id": 19,
+   "media": {
+    "id": 20,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-bacon.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/27/either-one-of-them/"
+  },
+  "Don't Drive Like My Brother": {
+   "id": 21,
+   "media": {
+    "id": 22,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-car-talk.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/28/dont-drive-like-my-brother/"
+  },
+  "Extra Parts": {
+   "id": 23,
+   "media": {
+    "id": 24,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-ockham.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/29/extra-parts/"
+  },
+  "Part 121g": {
+   "id": 25,
+   "media": {
+    "id": 26,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/doc-part-121g-final.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/30/part-121g/"
+  },
+  "The Tale of Two Thomases": {
+   "id": 55,
+   "media": {
+    "id": 56,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-update-my-prior.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/update-my-prior/"
+  },
+  "Six More Weeks...": {
+   "id": 58,
+   "media": {
+    "id": 59,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-superposition.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/?p=58"
+  },
+  "Of all the joints, in all the towns, in all the universe...": {
+   "id": 72,
+   "media": {
+    "id": 73,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-chinese-room.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/of-all-the-joints-in-all-the-towns-in-all-the-universe/"
+  },
+  "But how high?": {
+   "id": 75,
+   "media": {
+    "id": 76,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/strip-ovens-of-akhnai.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/but-how-high/"
+  },
+  "s206-1.png": {
+   "id": 80,
+   "media": {
+    "id": 81,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s206-1.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/the-road-less-traveled/"
+  },
+  "s206-2.png": {
+   "id": 83,
+   "media": {
+    "id": 84,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s206-2.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/absinthe-makes-the-heart-grow-fonder/"
+  },
+  "s206-3.png": {
+   "id": 86,
+   "media": {
+    "id": 87,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s206-3.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/untitled/"
+  },
+  "s206-4.png": {
+   "id": 89,
+   "media": {
+    "id": 90,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s206-4.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/well-thats-spilled-oil-over-the-tracks/"
+  },
+  "s206-5.png": {
+   "id": 92,
+   "media": {
+    "id": 93,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s206-5.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/its-just-thursday-at-the-nyt-crossword-section/"
+  },
+  "s208-1.png": {
+   "id": 95,
+   "media": {
+    "id": 96,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-1.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/independent-trials/"
+  },
+  "s208-2.png": {
+   "id": 98,
+   "media": {
+    "id": 99,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-2.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/you-are-that-man-at-the-crossing/"
+  },
+  "s208-3.png": {
+   "id": 101,
+   "media": {
+    "id": 102,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-3.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/the-god-of-the-copybook-headings/"
+  },
+  "s208-4.png": {
+   "id": 104,
+   "media": {
+    "id": 105,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-4.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/consider-this/"
+  },
+  "s208-5.png": {
+   "id": 107,
+   "media": {
+    "id": 108,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-5.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/yee-haw/"
+  },
+  "s208-6.png": {
+   "id": 110,
+   "media": {
+    "id": 111,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-6.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/open-a-channel/"
+  },
+  "s208-7.png": {
+   "id": 113,
+   "media": {
+    "id": 140,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-7-v2.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/the-briggs-of-konigsberg/",
+   "media_v1": {
+    "id": 114,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-7.png"
+   }
+  },
+  "s208-8.png": {
+   "id": 116,
+   "media": {
+    "id": 117,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-8.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/i-think-we-are-onto-a-new-civilization/"
+  },
+  "s208-9.png": {
+   "id": 119,
+   "media": {
+    "id": 120,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-9.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/in-the-beginning-was-the-log/"
+  },
+  "s208-10.png": {
+   "id": 122,
+   "media": {
+    "id": 123,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/10/s208-10.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/10/31/untitled-2/"
+  },
+  "s210-1.png": {
+   "id": 142,
+   "media": {
+    "id": 143,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s210-1.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/01/ganesha-in-the-room/"
+  },
+  "s210-2.png": {
+   "id": 145,
+   "media": {
+    "id": 146,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s210-2.png"
+   },
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/01/forget-it-jake/"
+  },
+  "s211-1": {
+   "id": 170,
+   "media": {
+    "id": 176,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s211-1h.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p211/s211-1h.png",
+   "mtime": 1793647616.6467369,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/everybody-comes-to-ricks/"
+  },
+  "s211-2": {
+   "id": 180,
+   "media": {
+    "id": 181,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s211-z1-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p211/s211-z1.png",
+   "mtime": 1793575828.4598503,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/just-a-gazebo/"
+  },
+  "s211-3": {
+   "id": 185,
+   "media": {
+    "id": 192,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s211-s3j.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p211/s211-s3j.png",
+   "mtime": 1793652788.896233,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/round-up-you-know-who/"
+  },
+  "s211-4": {
+   "id": 196,
+   "media": {
+    "id": 200,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s211-k2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p211/s211-k2.png",
+   "mtime": 1793655001.296285,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/wanted/"
+  },
+  "s211-5": {
+   "id": 204,
+   "media": {
+    "id": 205,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s211-v4-2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p211/s211-v4.png",
+   "mtime": 1793570114.161213,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/out-in-the-rain/"
+  },
+  "s211-6": {
+   "id": 209,
+   "media": {
+    "id": 210,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s211-p2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p211/s211-p2.png",
+   "mtime": 1793663387.0396736,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/after-midnight/"
+  },
+  "s213-1": {
+   "id": 214,
+   "media": {
+    "id": 217,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s213-rr.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p213/s213-rr.png",
+   "mtime": 1793663911.5376513,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/a-beginning/"
+  },
+  "s213-2": {
+   "id": 219,
+   "media": {
+    "id": 224,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s213-2-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p213/s213-2.png",
+   "mtime": 1793665511.3312266,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/anyway/"
+  },
+  "s212-1": {
+   "id": 230,
+   "media": {
+    "id": 231,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s212-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p212/s212-1.png",
+   "mtime": 1793670767.9011943,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/good-morning-insert-country-here/"
+  },
+  "s212-2": {
+   "id": 235,
+   "media": {
+    "id": 242,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s212-2-3.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p212/s212-2.png",
+   "mtime": 1793673857.430105,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/02/dihydrogen-monoxide/"
+  },
+  "s212-3": {
+   "id": 246,
+   "media": {
+    "id": 247,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s212-3.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p212/s212-3.png",
+   "mtime": 1793723141.9790728,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/03/it-stings/"
+  },
+  "s212-4": {
+   "id": 249,
+   "media": {
+    "id": 258,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s212-4c.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p212/s212-4c.png",
+   "mtime": 1793724769.8199272,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/03/it-still-stings-and-sings/"
+  },
+  "s212-5": {
+   "id": 261,
+   "media": {
+    "id": 264,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s212-5-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p212/s212-5.png",
+   "mtime": 1793727454.4417264,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/03/nevsky-lies/"
+  },
+  "s212-6": {
+   "id": 268,
+   "media": {
+    "id": 273,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s212-6-2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p212/s212-6.png",
+   "mtime": 1793730178.6034398,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/03/%d0%b2%d0%bd%d1%83%d1%82%d1%80%d0%b8-%d1%81%d0%b5%d0%b1%d1%8f/"
+  },
+  "s216-1": {
+   "id": 277,
+   "media": {
+    "id": 278,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s216-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p216/s216-1.png",
+   "mtime": 1793829537.7703483,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/04/when-does-pidgin-turn-into-creole/"
+  },
+  "s216-2": {
+   "id": 280,
+   "media": {
+    "id": 281,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s216-2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p216/s216-2.png",
+   "mtime": 1793829570.71617,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/04/the-order-of-battle/"
+  },
+  "s217-1": {
+   "id": 287,
+   "media": {
+    "id": 290,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s217-1-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p217/s217-1.png",
+   "mtime": 1793833037.2340412,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/04/%d1%82%d1%8b-%d0%bf%d0%bb%d0%be%d0%bc%d0%b1%d0%b8%d1%80-%d0%ba%d1%83%d0%bf%d0%b8-%d1%81-%d0%b8%d0%b7%d1%8e%d0%bc%d0%be%d0%bc/"
+  },
+  "s217-2": {
+   "id": 294,
+   "media": {
+    "id": 295,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s217-2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p217/s217-2.png",
+   "mtime": 1793833664.74174,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/04/%d0%bb%d1%8e%d0%b1%d0%b8%d1%82-%d0%bd%d0%b5-%d0%bb%d1%8e%d0%b1%d0%b8%d1%82/"
+  },
+  "s217-3": {
+   "id": 299,
+   "media": {
+    "id": 304,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s217-3-2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p217/s217-3.png",
+   "mtime": 1793836434.9813235,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/04/%d0%bc%d0%be%d0%b9-%d0%be%d0%b4%d0%bd%d0%b0%d0%ba%d0%be-%d0%b8%d0%b4%d0%b5%d0%b0%d0%bb/"
+  },
+  "s218-1": {
+   "id": 308,
+   "media": {
+    "id": 309,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s218-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p218/s218-1.png",
+   "mtime": 1793837255.5210257,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/04/dispatched-to-paris/"
+  },
+  "s219-1": {
+   "id": 313,
+   "media": {
+    "id": 316,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s219-1-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p219/s219-1.png",
+   "mtime": 1793915903.57761,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/05/the-swiss-connection/"
+  },
+  "s219-2": {
+   "id": 318,
+   "media": {
+    "id": 319,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s219-2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p219/s219-2.png",
+   "mtime": 1793915903.8167472,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/05/weve-met-before-havent-we/"
+  },
+  "s219-3": {
+   "id": 321,
+   "media": {
+    "id": 322,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s219-3.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p219/s219-3.png",
+   "mtime": 1793915808.011249,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/05/the-secret-meeting/"
+  },
+  "s220-1": {
+   "id": 330,
+   "media": {
+    "id": 340,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s220-1a-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p220/s220-1a.png",
+   "mtime": 1793922346.4421048,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/05/your-mission-should-you-choose-to-accept-it/"
+  },
+  "s220-2": {
+   "id": 337,
+   "media": {
+    "id": 342,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s220-2-1.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p220/s220-2.png",
+   "mtime": 1793922346.6022377,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/05/open-this-gate/"
+  },
+  "s221-1": {
+   "id": 348,
+   "media": {
+    "id": 353,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s221-1-2.png"
+   },
+   "file": "/Users/gregory/g/manda/git/hq/.claude/assets/p221/s221-1.png",
+   "mtime": 1793992464.8706293,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/06/whats-in-the-case/"
+  }
+ },
+ "blog_guest": 1331
+}
