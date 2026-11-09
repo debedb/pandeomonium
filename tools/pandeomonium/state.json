@@ -577,6 +577,17 @@
    "mtime": 1793992464.8706293,
    "done": true,
    "url": "http://pandeomonium.debedb.com/2026/11/06/whats-in-the-case/"
+  },
+  "i1-s1": {
+   "id": 357,
+   "media": {
+    "id": 358,
+    "url": "https://pandeomonium.wordpress.com/wp-content/uploads/2026/11/s1-1.png"
+   },
+   "file": "/Users/gregory/g/git.debedb/pandeomonium.worktrees/strip-draw-it-again/tools/i1-s1/s1-1.png",
+   "mtime": 1794260460.2400136,
+   "done": true,
+   "url": "http://pandeomonium.debedb.com/2026/11/09/draw-it-again/"
   }
  },
  "blog_guest": 1331
