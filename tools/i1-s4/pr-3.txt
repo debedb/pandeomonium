@@ -1,3 +1,4 @@
 Photorealistic cinematic comic panel, warm romantic film look: a Verona-style Renaissance courtyard at dusk, an ornate carved stone balcony overgrown with climbing roses and ivy, warm lantern light against deep blue evening. Absolutely no text, no letters, no speech balloons.
 
-Panel, close-up: a young man in his mid-twenties with dark tousled curly hair and light stubble, wearing a worn brown leather jerkin over a loose cream linen shirt, holding a small wooden classical guitar, frozen mid-strum, looking up, wide-eyed and speechless, fingers stopped on the strings. Use the reference image only for composition.
+Panel, close-up: a young man in his mid-twenties with dark tousled curly hair and light stubble, wearing a worn brown leather jerkin over a loose cream linen shirt, holding a teardrop-shaped round-backed mandolin (the same instrument in every panel), frozen mid-strum, looking up, wide-eyed and speechless, fingers stopped on the strings. Use the reference image only for composition.
+The instrument must be exactly the teardrop-shaped round-backed mandolin from the second reference image (same body shape, wood, rosette, headstock), not a guitar.
