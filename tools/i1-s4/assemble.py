@@ -1,4 +1,4 @@
-"""#1 strip 4 (Sonnet 18 / author / Solomon): three square-ish panels, then the author beside the serenade, then Solomon full width."""
+"""#1 strip 4 (Sonnet 18 / author / Solomon): three square-ish panels, then the author beside the serenade, then Solomon full width, then the coda (author gone, the secret chord, she returns)."""
 import sys; sys.path.insert(0, "../pandeomonium")
 from PIL import Image, ImageDraw
 from balloon212 import balloon
@@ -9,12 +9,14 @@ W5 = W - 3 * G - W4
 WF, HF = W - 2 * G, 880
 rows = [[("c1-a.png", W3, H1), ("c2-a.png", W3, H1), ("c3-a.png", W3, H1)],
         [("c4-a.png", W4, H2), ("c5-a.png", W5, H2)],
-        [("c6-a.png", WF, HF)]]
+        [("c6-a.png", WF, HF)],
+        [("c7-a.png", W3, W3), ("c8-a.png", W3, W3), ("c9-a.png", W3, W3)]]
 # balloons per panel, in panel coordinates: (cx, cy, lines, tail_xy, size)
 TEXT = {
     "c4-a.png": [(265, 90, ["18."], (150, 190), 34)],
     "c5-a.png": [(400, 60, ["Shall I compare thee to a summer's day?",
                             "Thou art more lovely and more temperate..."], (212, 178), 19)],
+    "c8-a.png": [(165, 52, ["I'll show you a secret chord", "my father played."], (252, 228), 18)],
     "c6-a.png": [(640, 300, ["This too shall pass."], (905, 420), 26)],
 }
 THOUGHT = {"c5-a.png": [(985, 150, ["That's what", "Barbara Cartland", "said."], (950, 300), 18)]}
