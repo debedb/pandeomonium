@@ -1,4 +1,4 @@
-"""#29: upload the strip and create a DRAFT post after «Allen key цветочек» (397). Publishing and the next link happen on approval. Resumable via state.json."""
+"""#29: upload the strip and create (or, after a re-render, update) a DRAFT post after «Allen key цветочек» (397). Publishing and the next link happen on approval. Resumable via state.json."""
 import html, json, os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pandeomonium"))
 import urllib.parse, urllib.request, subprocess
@@ -6,7 +6,7 @@ import urllib.parse, urllib.request, subprocess
 SITE, HOME, PREV = 258340798, "https://pandeomonium.debedb.com", 397
 TITLE = "International Philosophy"
 FILE = os.path.expanduser("~/g/git.debedb/pandeomonium-renders/football/s29.png")
-ALT = 'In the Munich Olympic stadium Germany and Greece play an International Philosophy match. Confucius referees with an hourglass while the philosophers wander about thinking, and Erling Haaland meditates cross-legged on the German bench. Leibniz walks off and Jesus comes on as goalkeeper, pulling on gloves; caption: "A very controversial choice." Archimedes raises a finger: "Eureka!" Heraclitus flicks the ball past Hegel as Socrates runs in. Socrates dives to head it and Jesus catches it under the crossbar. On the touchline Kant holds up his pocket watch to Confucius, who holds up his hourglass, while Haaland meditates behind them.'
+ALT = 'In the Munich Olympic stadium Germany and Greece play an International Philosophy match. Confucius stands on the centre spot with an hourglass while the philosophers wander about thinking, and Erling Haaland meditates cross-legged on the German bench. Leibniz walks off and Jesus comes on as goalkeeper, pulling on gloves; from the commentators\' booth: "A very controversial choice." Socrates walks off and Diego Maradona comes on in his Argentina shirt and sandals: "Another controversial choice. Seems team managers today are doing everything unexpected." Archimedes raises a finger: "Eureka!" Heraclitus flicks the ball past Hegel as Maradona runs in. Maradona leaps and reaches for the ball with his fist; Jesus catches it in mid-air. On the touchline Kant holds up his pocket watch to Confucius, who holds up his hourglass, while Haaland meditates.'
 SP = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pandeomonium", "state.json")
 TOK = os.environ.get("WPCOM_TOKEN") or subprocess.run(["security", "find-generic-password", "-s", "wpcom_token", "-w"],
                                                       capture_output=True, text=True, check=True).stdout.strip()
@@ -31,10 +31,11 @@ def call(path, data=None, img=None):
 
 state = json.load(open(SP))
 st = state["new"].setdefault("i29", {})
-if "media" not in st:
+if "media" not in st or st.get("mtime") != os.path.getmtime(FILE):
+    old = st.get("media")
     with open(FILE, "rb") as fh:
         m = call("/media/new", img=("s29.png", fh.read(), ALT))["media"][0]
-    st.update(media={"id": m["ID"], "url": m["URL"]}, file=FILE, mtime=os.path.getmtime(FILE))
+    st.update(media={"id": m["ID"], "url": m["URL"]}, file=FILE, mtime=os.path.getmtime(FILE), old=old)
     json.dump(state, open(SP, "w"), indent=1)
 m = st["media"]
 content = (f'<!-- wp:image {{"id":{m["id"]},"sizeSlug":"full","linkDestination":"media","align":"wide"}} -->\n'
@@ -46,3 +47,15 @@ if not st.get("done"):
     st.update(id=r["ID"], done=True, url=r["URL"]); json.dump(state, open(SP, "w"), indent=1)
     print(st["id"], TITLE, f"{HOME}/?p={st['id']}&preview=true")
 
+elif st.get("old"):
+    # re-render: read the live draft, swap the image block in place, keep it a draft
+    o, live = st["old"], call(f"/posts/{st['id']}?context=edit")
+    assert live["status"] == "draft", live["status"]
+    c = live["content"]
+    i, j = c.index("<!-- wp:image"), c.index("<!-- /wp:image -->") + len("<!-- /wp:image -->")
+    assert str(o["id"]) in c[i:j], "image block changed; splice by hand"
+    blk = content[:content.index("<!-- /wp:image -->") + len("<!-- /wp:image -->")]
+    r = call(f"/posts/{st['id']}", {"content": c[:i] + blk + c[j:], "featured_image": m["id"], "status": "draft"})
+    assert r["status"] == "draft", r["status"]
+    st.pop("old"); json.dump(state, open(SP, "w"), indent=1)
+    print("updated draft", st["id"], f"{HOME}/?p={st['id']}&preview=true")
