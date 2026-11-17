@@ -6,8 +6,8 @@ from balloon212 import balloon
 os.chdir(os.path.expanduser("~/g/git.debedb/pandeomonium-renders/football"))
 G, W = 6, 1536
 W2 = (W - 3 * G) // 2; H = round(W2 * 1024 / 1536)
-TEXT = {"c2.png": [(250, 40, ["A very controversial choice."], (655, 42), 16, False)],
-        "c3.png": [(300, 50, ["Another controversial choice. Seems team", "managers today are doing everything unexpected."], (585, 38), 14, False)],
+TEXT = {"c2.png": [(170, 34, ["A very controversial choice."], (330, 70), 16, False)],
+        "c3.png": [(210, 38, ["Another controversial choice. Seems team", "managers today are doing everything unexpected."], (430, 60), 14, False)],
         "c4.png": [(560, 70, ["Eureka!"], (420, 190), 26, False)]}
 CAPTION = {}
 H7, TY7 = 900, 0.75
