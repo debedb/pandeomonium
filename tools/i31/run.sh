@@ -6,11 +6,11 @@ refs(){ case $1 in
   1) echo $R/author.png;;
   2) echo $R/serling.png $R/author.png;;
   3) echo $R/gilliam_strip.png;;
-  4) echo $R/palin.png $R/hopkins.png $R/cleese.png;;
+  4) echo $R/palin.png $R/hopkins.png $R/cleese_sketch.png;;
   5) echo $R/palin.png $R/hopkins.png;;
-  6) echo $R/hall.png $R/borges_strip_crop.png $R/cleese.png $R/hopkins.png $R/stipe.png;;
-  7) echo $R/hall.png $R/borges_strip_crop.png $R/stipe.png $R/cleese.png $R/hopkins.png;;
-  8) echo $R/hall.png $R/borges_strip_crop.png $R/cleese.png $R/palin.png $R/hopkins.png $R/stipe.png;;
+  6) echo $R/hall.png $R/borges_strip_crop.png $R/cleese_sketch.png $R/hopkins.png $R/stipe_strip.png;;
+  7) echo $R/hall.png $R/borges_strip_crop.png $R/stipe_strip.png $R/cleese_sketch.png $R/hopkins.png;;
+  8) echo $R/hall.png $R/borges_strip_crop.png $R/cleese_sketch.png $R/stipe_strip.png;;
 esac; }
 for i in ${@:-1 2 3 4 5 6 7 8}; do
   cat $P/style.txt $P/p$i.txt > pr-$i.txt
