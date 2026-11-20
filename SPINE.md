@@ -23,13 +23,11 @@ WP links: `https://pandeomonium.debedb.com/?p=<WP>`.
 | **Draw It Again** (the cafe, the author, Bond) | Draw It Again (357), Is there anybody going to listen to my story (362), Two Qs (369), Eighteen (376) | #1 |
 | **The Office** | The Watch (391) | #24 |
 | *One-offs* | Allen key цветочек (397), International Philosophy (400) | #27, #29 |
+| **Transition: the cheese shop** (Serling, Gilliam, Cleese, Lecter, Stipe, Bookman, Borges, the cat) | Another dimension (410) | #31 |
 
 ## Next
 
-- **Transition: the cheese shop** (#31). The stick-figure author draws the
-  next one; Rod Serling intones; a Gilliam transition lands in the cheese shop.
-  It ends on "The cat's eaten it!", which hands the floor to the cats (#9,
-  thread 3).
+- The cats (#9, thread 3): Another dimension (410) ends on "The cat's eaten it!", which hands them the floor.
 
 ## Open threads from #9
 
