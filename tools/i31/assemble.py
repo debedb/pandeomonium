@@ -1,4 +1,4 @@
-"""#31 cheese shop: four rows of two panels; lettering for Serling, Cleese and the shopkeeper."""
+"""#31 cheese shop: four rows of two panels; lettering for Serling, Lecter, the shopkeeper and Bookman."""
 import os, sys
 sys.path.insert(0, os.path.expanduser("~/g/git.debedb/pandeomonium/tools/pandeomonium"))
 from PIL import Image, ImageDraw
@@ -7,8 +7,9 @@ os.chdir(os.path.expanduser("~/g/git.debedb/pandeomonium-renders/cheese"))
 G, W = 6, 1536
 W2 = (W - 3 * G) // 2; H = round(W2 * 1024 / 1536)
 TEXT = {"c2.png": [(235, 52, ["You have already entered another dimension.", "A dimension of ..."], (440, 192), 15, False)],
-        "c5.png": [(300, 42, ["Would you shut that bloody dancing up!"], (518, 98), 16, False)],
-        "c6.png": [(140, 40, ["The cat's eaten it!"], (240, 90), 18, False)]}
+        "c4.png": [(250, 44, ["What cheese would go best with this?"], (372, 118), 16, False)],
+        "c5.png": [(560, 44, ["I'd recommend Asiago...", "Ohh...", "The cat's eaten it!"], (455, 98), 15, False)],
+        "c8.png": [(210, 38, ["That's a library book!"], (232, 92), 17, False)]}
 def fit(src, w, h, ty=0.5):
     im = Image.open(src).convert("RGB"); s = max(w / im.width, h / im.height)
     im = im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
