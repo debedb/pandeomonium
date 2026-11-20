@@ -38,7 +38,9 @@ name is *pandemonium* with a *daemon* in it, and *pantheon* close by.
   strip. Keep props and costumes consistent inside a strip too: a character
   doesn't lose a coat between panels.
 - **Point of view.** When a character reads or discovers something, draw it over
-  their shoulder so the reader sees what they see.
+  their shoulder so the reader sees what they see. This outranks "no lettering":
+  the screen or page they read is legible. Signage a place needs in order to read
+  as that place (a studio's on-air sign) is also fine.
 - **Arcs cross.** Arcs intersect over and over again. Between-arc interjections
   in the Gilliam / Monty Python manner ("Anyway." / "Who said that?") are fine,
   but the comic has its own ethos, not Gilliam's. [SPINE.md](SPINE.md) maps
@@ -96,6 +98,9 @@ Every new idea follows issue -> worktree -> PR -> artifact:
 - Credentials come from the environment or the macOS Keychain
   (`OPENAI_API_KEY`, Keychain item `wpcom_token` / `WPCOM_TOKEN`). Never write a
   credential into the repo, an issue or a log.
+- Canon likeness crops come from the published strip. Its image is the `<img>` in
+  the post's content (`featured_image` can be empty). Crop out speech balloons,
+  or the model copies them into the new panel.
 - `media/hq-<n>/` holds images re-hosted from the issues that migrated here
   (`hq-<n>` is the original issue number).
 

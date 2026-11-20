@@ -23,11 +23,11 @@ WP links: `https://pandeomonium.debedb.com/?p=<WP>`.
 | **Draw It Again** (the cafe, the author, Bond) | Draw It Again (357), Is there anybody going to listen to my story (362), Two Qs (369), Eighteen (376) | #1 |
 | **The Office** | The Watch (391) | #24 |
 | *One-offs* | Allen key цветочек (397), International Philosophy (400) | #27, #29 |
-| **Transition: the cheese shop** (Serling, Gilliam, Cleese, Lecter, Stipe, Bookman, Borges, the cat) | Another dimension (410) | #31 |
+| **Transition: the cheese shop** (Serling, Gilliam, Cleese, Lecter, Stipe, Bookman, Borges, the cat; then Larry Wall, Terry Gross, Chomsky, Eco, O'Reilly, Sting) | Another dimension (410), Perls before swine? (418) | #31, #34 |
 
 ## Next
 
-- The cats (#9, thread 3): Another dimension (410) ends on "The cat's eaten it!", which hands them the floor.
+- The cats (#9, thread 3): Another dimension (410) ends on "The cat's eaten it!", which hands them the floor. Perls before swine? (418) left them alone, so the floor is still theirs.
 
 ## Open threads from #9
 
