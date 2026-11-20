@@ -1,0 +1,5 @@
+Panel: a cosy cluttered programmer's den at night, desk lamp, old CRT monitor. Over the shoulder of a real pink farm pig (an ordinary pig, not a person, no clothes except a pair of small reading glasses) who sits at the desk with its front trotters on the keyboard, concentrating, debugging. On the monitor, legible, in green monospace on black, exactly these three lines and nothing else:
+my $part = "121G";
+$part =~ s/(\d+)G/$1/;
+print "$part\n";   # why?
+Beside the desk, Larry Wall, exactly as in the Larry Wall reference photos (in his fifties, longish brown hair, bushy moustache, wire-rimmed glasses, colourful patterned shirt), leans on a bookcase, arms folded, watching the pig with amused delight. Behind them a real dromedary camel and a real llama poke their heads in and look on curiously at the screen. No books with readable covers, no mugs with writing, no other text anywhere.
