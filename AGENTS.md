@@ -29,17 +29,27 @@ name is *pandemonium* with a *daemon* in it, and *pantheon* close by.
   it from English.
 - **Real people get drawn with care.** Likenesses should be recognizable. Use the
   reference images the issue names.
-- **Continuity.** A recurring character looks the same in every strip. The R's
+- **Continuity.** A recurring character looks the same in every strip. The
+  first time a likeness appears in the series, it becomes the canon: later
+  strips use a crop of that published strip as the reference, not a photo. The R's
   look fully human and are only "merely present"; only subtle behaviours give
   them away. Rabbi Joshua, Kant, Landa (Christoph Waltz) and the rest keep their
   established likeness, costume and props from panel to panel and from strip to
   strip. Keep props and costumes consistent inside a strip too: a character
   doesn't lose a coat between panels.
 - **Point of view.** When a character reads or discovers something, draw it over
-  their shoulder so the reader sees what they see.
+  their shoulder so the reader sees what they see. This outranks "no lettering":
+  the screen or page they read is legible. Signage a place needs in order to read
+  as that place (a studio's on-air sign) is also fine.
 - **Arcs cross.** Arcs intersect over and over again. Between-arc interjections
   in the Gilliam / Monty Python manner ("Anyway." / "Who said that?") are fine,
-  but the comic has its own ethos, not Gilliam's. Arc markers are undecided.
+  but the comic has its own ethos, not Gilliam's. [SPINE.md](SPINE.md) maps
+  strips to arcs and lists the open threads.
+- **"Previously on".** The "← previous · next →" links always follow publish
+  order. When a strip picks up an arc that was left a while back and continuity
+  needs it, the post may also carry a "Previously on *<strip title>*" link to
+  that arc's last strip. It is optional and goes on the post, never on the
+  image.
 - **Timelines jump.** Strips go back and forth between arcs and timelines with
   no bridging. A new strip can pick up any earlier thread right away, and
   readers will place it.
@@ -75,7 +85,8 @@ Every new idea follows issue -> worktree -> PR -> artifact:
    time: a strip is published before the next one is drafted, unless the author
    asks for several at once.
 5. **Ship.** On approval: publish the post, add a "next ->" link to the
-   previous strip, merge the PR, and close the issue once its strips are out.
+   previous strip, add the strip to `SPINE.md`, merge the PR, and close the
+   issue once its strips are out.
 
 ## Tooling
 
@@ -87,6 +98,9 @@ Every new idea follows issue -> worktree -> PR -> artifact:
 - Credentials come from the environment or the macOS Keychain
   (`OPENAI_API_KEY`, Keychain item `wpcom_token` / `WPCOM_TOKEN`). Never write a
   credential into the repo, an issue or a log.
+- Canon likeness crops come from the published strip. Its image is the `<img>` in
+  the post's content (`featured_image` can be empty). Crop out speech balloons,
+  or the model copies them into the new panel.
 - `media/hq-<n>/` holds images re-hosted from the issues that migrated here
   (`hq-<n>` is the original issue number).
 
