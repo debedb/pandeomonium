@@ -29,7 +29,9 @@ name is *pandemonium* with a *daemon* in it, and *pantheon* close by.
   it from English.
 - **Real people get drawn with care.** Likenesses should be recognizable. Use the
   reference images the issue names.
-- **Continuity.** A recurring character looks the same in every strip. The R's
+- **Continuity.** A recurring character looks the same in every strip. The
+  first time a likeness appears in the series, it becomes the canon: later
+  strips use a crop of that published strip as the reference, not a photo. The R's
   look fully human and are only "merely present"; only subtle behaviours give
   them away. Rabbi Joshua, Kant, Landa (Christoph Waltz) and the rest keep their
   established likeness, costume and props from panel to panel and from strip to
