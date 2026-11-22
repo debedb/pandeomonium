@@ -17,6 +17,11 @@ name is *pandemonium* with a *daemon* in it, and *pantheon* close by.
 - **Never over-explain.** Don't explain the jokes, in the strip or in
   discussion. Song quotes, film lines and allusions go unspoken unless the
   issue says a character speaks them. Titles and captions are minimal.
+  Untranslated Hebrew, Chinese or Russian stays untranslated when the reader
+  can look it up (a famous line, a sign, a menu). Aim between over-explained
+  and baffling: not a crossword, but leave the reader the click of getting it
+  themselves. If a reader would have nowhere to look, give them a foothold in
+  the scene, not a gloss.
 - **Irreverent, not cruel.** The series is deliberately irreverent about gods,
   prophets, philosophers and pop culture. The absurdity is in the situation.
   It never lands on real grief: when an artist sings a lament, draw them
