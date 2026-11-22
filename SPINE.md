@@ -24,11 +24,11 @@ WP links: `https://pandeomonium.debedb.com/?p=<WP>`.
 | **The Office** | The Watch (391) | #24 |
 | *One-offs* | Allen key цветочек (397), International Philosophy (400) | #27, #29 |
 | **Transition: the cheese shop** (Serling, Gilliam, Cleese, Lecter, Stipe, Bookman, Borges, the cat; then Larry Wall, Terry Gross, Chomsky, Eco, O'Reilly, Sting) | Another dimension (410), Perls before swine? (418) | #31, #34 |
-| **Back on the Enterprise** (Kant, Picard, Rabbi Joshua, Spot, Wesley, Q; *Previously on* Untitled (122)) | Ready room (422) | #36 |
+| **Back on the Enterprise** (Kant, Picard, Rabbi Joshua, Spot, Wesley, Q; *Previously on* Untitled (122)) | Ready room (422), Layer 2 or Layer 3? (426) | #36 |
 
 ## Next
 
-- The Enterprise (#36, #38): the engineering deck next (Euler's CCIE with Geordi), then Ten Forward and "My Way" (#38). Spot has taken the floor for the cats.
+- The Enterprise (#38): Ten Forward and "My Way" next. The holodeck is left running at the end of Layer 2 or Layer 3? (426); Moriarty, the author's break and Reichenbach (#9 threads 8-9) come later. Spot has taken the floor for the cats.
 - The cats (#9, thread 3): Another dimension (410) ends on "The cat's eaten it!", which hands them the floor. Perls before swine? (418) left them alone, so the floor is still theirs.
 
 ## Open threads from #9
