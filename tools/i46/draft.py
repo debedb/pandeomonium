@@ -6,7 +6,7 @@ import urllib.parse, urllib.request, subprocess
 SITE, HOME, PREV = 258340798, "https://pandeomonium.debedb.com", 444
 TITLE = "Put that coffee down"
 FILE = os.path.expanduser("~/g/git.debedb/pandeomonium-renders/coffee/s46.png")
-ALT = 'Six panels. Grace Hopper closes the logbook by the Mark II and gets up, mug in hand. In the lab\'s coffee room, inexplicably, Shelley Levene is pouring himself a cup. Blake points and bellows: "Put that coffee down!" Ignoring him, Hopper tells Levene: "There was a moth in the relay." Pete Martell bursts in: "Put that coffee down! There was a fish in the percolator!" All four stare at the cup in Levene\'s hand.'
+ALT = 'Six panels. Grace Hopper closes the logbook by the Mark II and gets up, mug in hand. In the lab\'s coffee room, inexplicably, Shelley Levene is pouring himself a cup. Blake points and bellows: "Put that coffee down!" Ignoring him, Hopper tells Levene: "There was a moth in the relay." Pete Martell bursts in: "Put that coffee down! There was a fish in the percolator!" Three dolphins stand upright in the doorway, one waving a flipper: "We know. Thanks!"'
 SP = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pandeomonium", "state.json")
 TOK = os.environ.get("WPCOM_TOKEN") or subprocess.run(["security", "find-generic-password", "-s", "wpcom_token", "-w"],
                                                       capture_output=True, text=True, check=True).stdout.strip()

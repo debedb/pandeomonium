@@ -8,7 +8,7 @@ refs(){ case $1 in
   3) echo $R/blake.png $R/levene.png $R/hopper.png;;
   4) echo $R/hopper.png $R/levene.png $R/blake.png;;
   5) echo $R/pete.png $R/blake.png $R/hopper.png $R/levene.png;;
-  6) echo $R/levene.png $R/hopper.png $R/blake.png $R/pete.png;;
+  6) echo $R/dolphins.png $R/levene.png $R/hopper.png $R/pete.png;;
 esac; }
 for i in ${@:-1 2 3 4 5 6}; do
   cat $P/style.txt $P/p$i.txt > pr-$i.txt

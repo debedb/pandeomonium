@@ -23,8 +23,9 @@ def he_balloon(img, cx, cy, text, tail, size=28):
 
 
 TEXT = {"c3.png": [(310, 30, ["Put that coffee down!"], (222, 108), 15, False, False)],
-        "c4.png": [(330, 40, ["There was a moth", "in the relay."], (250, 228), 17, False, False)],
-        "c5.png": [(640, 58, ["Put that coffee down!", "There was a fish", "in the percolator!"], (512, 128), 16, False, False)]}
+        "c4.png": [(440, 34, ["There was a moth", "in the relay."], (398, 205), 16, False, False)],
+        "c5.png": [(640, 58, ["Put that coffee down!", "There was a fish", "in the percolator!"], (512, 128), 16, False, False)],
+        "c6.png": [(440, 45, ["We know. Thanks!"], (312, 112), 18, False, False)]}
 HEB = {}
 
 
