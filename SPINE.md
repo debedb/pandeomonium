@@ -27,7 +27,7 @@ WP links: `https://pandeomonium.debedb.com/?p=<WP>`.
 | **Back on the Enterprise** (Kant, Picard, Rabbi Joshua, Spot, Wesley, Q, Euler, Geordi, Guinan, Riker, Sinatra, Sheridan, Ivanova; *Previously on* Untitled (122)) | Ready room (422), Layer 2 or Layer 3? (426), A rabbi, a philosopher, a starship captain, and an Oxford comma walk into a bar… (430) | #36, #38 |
 | **SCOTUS variation** (Ginsburg, Scalia, Roberts, Rabbi Joshua, Dionysus) | SCOTUS variation (436) | #14 |
 | **Data, Lore, and Mandela** (Sam, Vincent, Data, Lore, Mandela, Dooley Wilson's Sam; *Previously on* Is there anybody going to listen to my story (362)) | Data, Lore, and Mandela (440) | #19 |
-| *One-off* (Nabokov, Callas, Bond, Hopper) | Бабочка (444) | #40 |
+| **Hopper's bug** (Nabokov, Callas, Bond, Hopper; then Levene, Blake, Pete Martell, the dolphins) | Бабочка (444), Put that coffee down (448) | #40, #46 |
 
 ## Next
 
