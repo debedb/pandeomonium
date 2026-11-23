@@ -24,7 +24,8 @@ WP links: `https://pandeomonium.debedb.com/?p=<WP>`.
 | **The Office** | The Watch (391) | #24 |
 | *One-offs* | Allen key цветочек (397), International Philosophy (400) | #27, #29 |
 | **Transition: the cheese shop** (Serling, Gilliam, Cleese, Lecter, Stipe, Bookman, Borges, the cat; then Larry Wall, Terry Gross, Chomsky, Eco, O'Reilly, Sting) | Another dimension (410), Perls before swine? (418) | #31, #34 |
-| **Back on the Enterprise** (Kant, Picard, Rabbi Joshua, Spot, Wesley, Q, Euler, Geordi, Guinan, Riker, Sinatra, Sheridan, Ivanova; *Previously on* Untitled (122)) | Ready room (422), Layer 2 or Layer 3? (426), My Way (430) | #36, #38 |
+| **Back on the Enterprise** (Kant, Picard, Rabbi Joshua, Spot, Wesley, Q, Euler, Geordi, Guinan, Riker, Sinatra, Sheridan, Ivanova; *Previously on* Untitled (122)) | Ready room (422), Layer 2 or Layer 3? (426), A rabbi, a philosopher, a starship captain, and an Oxford comma walk into a bar… (430) | #36, #38 |
+| **SCOTUS variation** (Ginsburg, Scalia, Roberts, Rabbi Joshua, Dionysus) | SCOTUS variation (436) | #14 |
 
 ## Next
 
