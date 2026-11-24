@@ -30,6 +30,7 @@ WP links: `https://pandeomonium.debedb.com/?p=<WP>`.
 | **Hopper's bug** (Nabokov, Callas, Bond, Hopper; then Levene, Blake, Pete Martell, the dolphins) | Бабочка (444), Put that coffee down (448) | #40, #46 |
 | **Closing Time** (Levene at the Cherry Orchard, 1981 BBC likenesses: Dench, Paterson, Walter; Williamson interrupts; the 321 owl and Asya watch; then blindfolded Caine (Carradine) kicks Dhar Mann while the blind readers see it coming; the Glengarry bar) | The Appointment (456), The Transaction (462), Sokath, his eyes uncovered (468), Weak Leads (474), Narrative Economy (478) | #48 |
 | **The Cranes** (Frasier and Niles at the Glengarry bar, Jung, the 321 owls; then Ilchenko and Kartsev's crane report) | Here come the Cranes. They're American Cranes, made in America (482), The towel of Babel (486), Which One? (494) | #52 |
+| **The Mutiny** (Vera, Wilson behind the fence, Behemoth with the W.A.S.T.E. cylinder, Maris and Niles; Pirandello's writers' room; exits as entrances) | Behind the Cedar Fence (498) | #52 |
 
 ## Next
 
