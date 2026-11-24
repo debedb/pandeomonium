@@ -1,0 +1,5 @@
+FIRS=Firs (exactly as in his reference: a very old manservant, bald crown with a fringe of white hair, heavy lined face, dark old-fashioned coat over a grey high collar, white gloves)
+PRESENTER=a YouTube presenter (exactly as in his reference: Dhar Mann: a South Asian American man in his late thirties with warm brown skin, dark curly hair, short dark beard, tan blazer over a black t-shirt)
+CAINE=Kwai Chang Caine (exactly as in his reference: David Carradine in the 1970s Kung Fu series: lean, long face, light eyes, worn tan suede jacket, dark shirt, brown flat-brimmed hat)
+HOPPER=Grace Hopper (exactly as in her reference: elderly, white hair, glasses, navy dress-blue Commodore uniform with gold sleeve stripes, holding a coffee mug)
+READERS=three readers at a table deep in the library, exactly as in the library reference: a blind old librarian in a black suit with a cane (Borges), a grey-haired man in a black coat (Milton), and a dark-haired younger man assembling a large jigsaw puzzle on the table (Bartlebooth)
