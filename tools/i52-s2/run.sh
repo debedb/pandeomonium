@@ -2,7 +2,7 @@
 set -a; . ~/.bash_profile >/dev/null 2>&1; set +a
 G=$(cd ~/g/git.debedb/pandeomonium/tools/pandeomonium && pwd)/gen212.py; P=$(cd "$(dirname "$0")" && pwd)
 mkdir -p ~/g/git.debedb/pandeomonium-renders/cranes/s2; cd ~/g/git.debedb/pandeomonium-renders/cranes/s2; R=../refs
-refs(){ echo $R/ilchenko.png $R/kartsev.png $R/kartsev-towel.png; }
+refs(){ echo $R/ilchenko.png $R/kartsev-towel.png $R/kartsev.png; }
 for i in ${@:-1 2 3 4 5 6}; do
   python3 - "$P" $i > pr-$i.txt <<'PY'
 import sys
