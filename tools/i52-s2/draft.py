@@ -4,7 +4,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."
 import urllib.parse, urllib.request, subprocess
 
 SITE, HOME, PREV = 258340798, "https://pandeomonium.debedb.com", 482
-TITLE = "The Report"
+TITLE = "The towel of Babel"
 FILE = os.path.expanduser("~/g/git.debedb/pandeomonium-renders/cranes/s2/s52-2.png")
 ALT = "Six panels, in Russian, from Zhvanetsky's «В порту». Through a doorway off the bar, a little harbour office; on the desk lies the Hitchhiker's Guide, DON'T PANIC on its cover; through the window a toppled port crane and a V of migrating cranes with a gap in it. The boss, Viktor Ilchenko: «Послушайте, Кольцов, вы, конечно, были на работе, да?» Roman Kartsev, a beach towel round his neck: «Да!» «А?» «А?» «Это что такое?» «Что именно?» «Что у вас на шее?» «На моей?» «Это полотенце.» «При чём тут полотенце? Да вы знаете, что у вас сегодня случилось?» «Ещё бы.» «Вас искали раньше, до нашего разговора!» «Так „раньше“ или „до того“?» «Раньше... Нет, до того.» «Раньше до или до раньше того?» «Вот тут я не пойму: если вы спрашиваете, я буду отвечать. Если вы отвечаете, я буду спрашивать.» «Пока я начальник, я спрашиваю!» «Почему „пока“?» «Да вы знаете, что случилось на вашем участке или нет?» Kartsev clutches his head, staring at the window: «Стоп! Осторожно, у меня что-то с головой. Это порт?» «Порт.»"
 SP = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pandeomonium", "state.json")
