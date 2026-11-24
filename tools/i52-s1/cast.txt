@@ -1,0 +1,8 @@
+FRASIER=Frasier Crane (exactly as in his reference: Kelsey Grammer in the 1990s sitcom Frasier: balding, broad face, dark grey double-breasted suit, patterned silk tie)
+NILES=Niles Crane (exactly as in his reference: David Hyde Pierce in Frasier: slim, fastidious, thinning sandy hair neatly parted, dark grey suit, burgundy patterned tie)
+JUNG=Carl Gustav Jung (exactly as in his reference photo: an old man with white hair swept back, white moustache, heavy brows, round wire glasses, tweed jacket, a pipe)
+SAM=Sam Malone (exactly as in his reference: Ted Danson as the Cheers bartender: tall, wavy dark-brown hair, plaid shirt, white apron)
+JERRY=Jerry Seinfeld (exactly as in his reference: dark wavy hair, clean-shaven, blue shirt, white bar apron)
+CLIFF=Cliff Clavin (exactly as in his reference: John Ratzenberger, thick dark hair, moustache, blue-grey postal uniform)
+DHAR=Dhar Mann (exactly as in his reference: tall pile of tight dark curls on top with faded sides, short beard, rumpled tan blazer, a black eye)
+OWLS=two owls (exactly as in the owl references: a large Eurasian eagle-owl with ear tufts and orange eyes, and a smaller round-headed tawny owl with dark eyes)
