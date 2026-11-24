@@ -1,0 +1,6 @@
+LEVENE=Shelley Levene (exactly as in his reference: Jack Lemmon as the weary salesman: silver-grey hair combed back from a high forehead, round lined face, thin lips, dark grey suit, navy tie)
+RANEVSKAYA=Lyubov Ranevskaya (exactly as in her reference (Judi Dench): a woman in her forties, round face, auburn-brown hair piled up, white lace high-collared blouse, pale skirt, pearl earrings)
+LOPAKHIN=Lopakhin (exactly as in his reference (Bill Paterson): about forty, receding wavy brown hair, full reddish-brown beard, dark frock coat over a waistcoat, white collar)
+VARYA=Varya (exactly as in her reference (Harriet Walter): a composed young woman, dark hair swept up, long face, black high-collared dress and jacket, a silver cross on a chain, a large ring of household keys at her waist)
+FIRS=Firs (exactly as in his reference: a very old manservant, bald crown with a fringe of white hair, heavy lined face, stooped, dark old-fashioned coat over a grey high collar, white gloves)
+WILLIAMSON=John Williamson (exactly as in his reference: Kevin Spacey as the Glengarry office manager: short neat dark hair, smooth face, white shirt with rolled sleeves, dark pinstripe vest, loosened tie)
