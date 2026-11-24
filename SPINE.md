@@ -29,7 +29,7 @@ WP links: `https://pandeomonium.debedb.com/?p=<WP>`.
 | **Data, Lore, and Mandela** (Sam, Vincent, Data, Lore, Mandela, Dooley Wilson's Sam; *Previously on* Is there anybody going to listen to my story (362)) | Data, Lore, and Mandela (440) | #19 |
 | **Hopper's bug** (Nabokov, Callas, Bond, Hopper; then Levene, Blake, Pete Martell, the dolphins) | Бабочка (444), Put that coffee down (448) | #40, #46 |
 | **Closing Time** (Levene at the Cherry Orchard, 1981 BBC likenesses: Dench, Paterson, Walter; Williamson interrupts; the 321 owl and Asya watch; then blindfolded Caine (Carradine) kicks Dhar Mann while the blind readers see it coming; the Glengarry bar) | The Appointment (456), The Transaction (462), Sokath, his eyes uncovered (468), Weak Leads (474), Narrative Economy (478) | #48 |
-| **The Cranes** (Frasier and Niles at the Glengarry bar, Jung, the 321 owls; then Ilchenko and Kartsev's crane report) | Here come the Cranes. They're American Cranes, made in America (482), The Report (486) | #52 |
+| **The Cranes** (Frasier and Niles at the Glengarry bar, Jung, the 321 owls; then Ilchenko and Kartsev's crane report) | Here come the Cranes. They're American Cranes, made in America (482), The towel of Babel (486) | #52 |
 
 ## Next
 
