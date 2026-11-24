@@ -13,7 +13,7 @@ TEXT = {"c4.png": [(430, 34, ["You see..."], (332, 100), 15),
                    (470, 250, ["So you see..."], (330, 168), 15)],
         "c5.png": [(130, 330, ["Observe closely,", "Grace Hopper."], (200, 215), 16)]}
 SFX = {"c1.png": (650, 300, "CLICK", 30, 0), "c6.png": (1060, 50, "THWACK", 64, 8)}
-TY = {"c3.png": 0.0, "c6.png": 0.2}
+TY = {"c3.png": 0.3, "c6.png": 0.2}
 
 
 def fit(src, w, h, ty=0.5):

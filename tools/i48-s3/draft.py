@@ -4,9 +4,9 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."
 import urllib.parse, urllib.request, subprocess
 
 SITE, HOME, PREV = 258340798, "https://pandeomonium.debedb.com", 462
-TITLE = "Closing Time"
+TITLE = "Sokath, his eyes uncovered"
 FILE = os.path.expanduser("~/g/git.debedb/pandeomonium-renders/orchard/s3/s48-3.png")
-ALT = 'Six panels. The household leaves; the front door clicks shut on an empty room, a paper coffee cup left on the side table. Old Firs sits alone on the couch and sighs. The wall of the house opens into the infinite library: Dhar Mann steps in, hand raised, ready to explain; Kwai Chang Caine and Grace Hopper stand by a bookcase; Borges, Milton and Bartlebooth sit at the puzzle table. Firs: "You see... You don\'t understand anything. So you see..." Caine, to Hopper: "Observe closely, Grace Hopper." Caine kicks Dhar Mann in the side of the head. THWACK. Hopper nods over her cup; the readers smile; Firs stays on the couch by the locked door.'
+ALT = 'Six panels. The household leaves; the front door clicks shut on an empty room, a paper coffee cup left on the side table. Old Firs sits alone on the couch and sighs. The wall of the house opens into the infinite library: Dhar Mann steps in, hand raised, ready to explain; Kwai Chang Caine, blindfolded, and Grace Hopper stand by the shelves; the blind readers Borges, Milton and Bartlebooth sit at the puzzle table. Firs: "You see... You don\'t understand anything. So you see..." Caine, to Hopper: "Observe closely, Grace Hopper." Blindfolded, Caine kicks Dhar Mann in the side of the head. THWACK. Hopper nods over her cup; the blind readers smile; Firs stays on the couch by the locked door.'
 SP = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pandeomonium", "state.json")
 TOK = os.environ.get("WPCOM_TOKEN") or subprocess.run(["security", "find-generic-password", "-s", "wpcom_token", "-w"],
                                                       capture_output=True, text=True, check=True).stdout.strip()
@@ -55,7 +55,7 @@ elif st.get("old"):
     i, j = c.index("<!-- wp:image"), c.index("<!-- /wp:image -->") + len("<!-- /wp:image -->")
     assert str(o["id"]) in c[i:j], "image block changed; splice by hand"
     blk = content[:content.index("<!-- /wp:image -->") + len("<!-- /wp:image -->")]
-    r = call(f"/posts/{st['id']}", {"content": c[:i] + blk + c[j:], "featured_image": m["id"], "status": "draft"})
+    r = call(f"/posts/{st['id']}", {"title": TITLE, "content": c[:i] + blk + c[j:], "featured_image": m["id"], "status": "draft"})
     assert r["status"] == "draft", r["status"]
     st.pop("old"); json.dump(state, open(SP, "w"), indent=1)
     print("updated draft", st["id"], f"{HOME}/?p={st['id']}&preview=true")

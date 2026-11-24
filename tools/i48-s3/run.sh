@@ -5,8 +5,8 @@ mkdir -p ~/g/git.debedb/pandeomonium-renders/orchard/s3; cd ~/g/git.debedb/pande
 refs(){ case $1 in
   1) echo ../s2/c8.png;;
   2|4) echo $R/c-firs.png ../s2/c7.png;;
-  3|6) echo $R/c-firs.png $R/dharmann.png $R/caine.png $R/hopper.png $R/bartlebooth-table.png $R/borges.png $R/milton.png;;
-  5) echo $R/caine.png $R/hopper.png $R/dharmann.png $R/borges.png;;
+  3|6) echo $R/c-firs.png $R/dharmann.png $R/carradine-face.png $R/hopper.png $R/bartlebooth-table.png $R/borges.png $R/milton.png;;
+  5) echo $R/carradine-face.png $R/hopper.png $R/dharmann.png $R/borges.png;;
 esac; }
 for i in ${@:-1 2 3 4 5 6}; do
   python3 - "$P" $i > pr-$i.txt <<'PY'
