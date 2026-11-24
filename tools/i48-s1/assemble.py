@@ -10,7 +10,7 @@ INK = (20, 20, 20)
 TYPE = "/System/Library/Fonts/Supplemental/Courier New Bold.ttf"
 TEXT = {"c1.png": [(150, 40, ["Mrs. Ranevskaya?"], (215, 120), 16)],
         "c2.png": [(300, 40, ["Shelley Levene.", "I have something I'd", "like you to look at."], (282, 104), 15)],
-        "c3.png": [(432, 36, ["Lyubov Andreyevna.", "The auction is on", "the twenty-second."], (358, 96), 14)],
+        "c3.png": [(170, 34, ["Lyubov Andreyevna.", "The auction is on", "the twenty-second."], (362, 104), 14)],
         "c4.png": [(250, 50, ["Lease the plots for summer houses.", "Twenty-five thousand a year.", "The land stays yours."], (330, 150), 15)],
         "c5.png": [(560, 50, ["It hasn't changed at all."], (520, 140), 16)]}
 CARD = (320, 307, 382, 4)  # (x0, y0, x1, y1, angle) on c1 once the card is located
@@ -25,7 +25,7 @@ def fit(src, w, h, ty=0.5):
 
 def card(im):
     x0, y0, x1, ang = CARD
-    t = Image.new("RGBA", (400, 80), (0, 0, 0, 0)); ImageDraw.Draw(t).text((200, 40), "L. RANEVSKAYA", font=ImageFont.truetype(TYPE, 52), fill=(40, 40, 60), anchor="mm")
+    t = Image.new("RGBA", (400, 80), (0, 0, 0, 0)); ImageDraw.Draw(t).text((200, 40), "L. RANEVSKAYA", font=ImageFont.truetype(TYPE, 44), fill=(40, 40, 60), anchor="mm")
     t = t.resize((x1 - x0, round((x1 - x0) * 80 / 400)), Image.LANCZOS).rotate(ang, expand=True, resample=Image.BICUBIC)
     im.paste(t, (x0, y0), t)
 
