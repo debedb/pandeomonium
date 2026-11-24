@@ -1,0 +1,8 @@
+CLIFF=Cliff Clavin (exactly as in his reference: John Ratzenberger as the Cheers mailman: thick dark hair, bushy moustache, blue-grey US Postal Service uniform jacket with patch, a mail bag)
+NEWMAN=Newman (exactly as in his reference: Wayne Knight as Seinfeld's Newman: heavyset, round face, glasses, dark hair, blue US Postal Service uniform jacket with eagle patch, a mail bag)
+DHAR=a YouTube presenter (exactly as in his reference: Dhar Mann: South Asian American man with warm brown skin, his signature tall pile of tight dark curls on top with faded sides, short beard; the same tan blazer and black t-shirt, now rumpled; a conspicuous black eye on his right eye; despondent)
+JERRY=Jerry Seinfeld (exactly as in his reference: the 1990s sitcom Jerry: dark wavy hair, clean-shaven, long face, blue shirt, white bar apron)
+SAM=Sam Malone (exactly as in his reference: Ted Danson as the Cheers bartender: tall, wavy dark-brown hair, plaid shirt with rolled sleeves, white apron)
+LEVENE=Shelley Levene (Jack Lemmon, silver-grey hair, dark grey suit)
+LOPAKHIN=Lopakhin (Bill Paterson, reddish-brown beard, dark frock coat)
+COLUMBO=Columbo (Peter Falk, tousled hair, beige raincoat, cigar)
