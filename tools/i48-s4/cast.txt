@@ -1,0 +1,5 @@
+LEVENE=Shelley Levene (exactly as in his reference: Jack Lemmon as the weary salesman: silver-grey hair combed back, round lined face, thin lips, dark grey suit and overcoat, navy tie)
+LOPAKHIN=Lopakhin (exactly as in his reference: Bill Paterson, about forty, receding wavy brown hair, full reddish-brown beard, dark 1900s frock coat over a waistcoat, white collar)
+COLUMBO=Lieutenant Columbo (exactly as in his reference: Peter Falk: tousled dark hair, one squinting eye, rumpled beige raincoat over a crumpled suit and loose tie)
+SAM=Sam Malone (exactly as in his reference: Ted Danson as the Cheers bartender: tall, wavy dark-brown hair, easy grin, plaid shirt with rolled sleeves)
+JERRY=Jerry Seinfeld (exactly as in his reference: the 1990s sitcom Jerry: dark wavy hair, clean-shaven, long face, wearing a white bar apron over a blue shirt)
