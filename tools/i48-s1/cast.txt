@@ -1,0 +1,5 @@
+LEVENE=Shelley Levene (exactly as in his reference: Jack Lemmon as the weary salesman: silver-grey hair combed back from a high forehead, round lined face, thin lips, dark grey suit, navy tie)
+RANEVSKAYA=Lyubov Ranevskaya (an elegant Russian lady in her mid-forties, dark hair pinned up, fine Parisian travelling dress of dove-grey silk, a long necklace)
+LOPAKHIN=Lopakhin (a broad-shouldered Russian merchant about forty, short dark beard, a peasant face grown prosperous, white waistcoat, brown frock coat, yellow shoes, delicate hands)
+VARYA=Varya (a plain, composed young woman of twenty-four, dark hair in a severe bun, simple black dress, a large ring of household keys at her waist)
+FIRS=Firs (a very old manservant of eighty-seven, stooped, white side-whiskers, old-fashioned dark livery jacket over a white waistcoat, white gloves)
