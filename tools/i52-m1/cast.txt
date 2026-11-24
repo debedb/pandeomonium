@@ -1,0 +1,6 @@
+VERA=Vera Peterson (a warm, sharp-eyed woman in her late forties, auburn hair in a neat bob, a tailored camel wool coat and scarf, fully visible face, breath steaming in the cold)
+WILSON=Wilson (exactly as in his reference: only a beige bucket hat, his eyes and the bridge of his nose visible above the top rail of a tall cedar fence; the rest of his face always hidden behind the fence)
+OWLS=two owls (exactly as in the owl references: a large Eurasian eagle-owl with ear tufts and orange eyes, and a smaller tawny owl)
+BEHEMOTH=Behemoth (an enormous, sleek, glossy black tomcat with yellow-green eyes and a knowing, insolent expression)
+MARIS=Maris Crane (a razor-thin, sharp-featured, poised woman in her forties with a severe dark bob, thin titanium reading glasses, black leather gloves, wearing a bespoke yellow cashmere tracksuit with black side stripes)
+NILES=Niles Crane (exactly as in his reference: David Hyde Pierce in Frasier: slim, fastidious, thinning sandy hair neatly parted, dark grey suit, burgundy tie)
