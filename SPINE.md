@@ -28,6 +28,7 @@ WP links: `https://pandeomonium.debedb.com/?p=<WP>`.
 | **SCOTUS variation** (Ginsburg, Scalia, Roberts, Rabbi Joshua, Dionysus) | SCOTUS variation (436) | #14 |
 | **Data, Lore, and Mandela** (Sam, Vincent, Data, Lore, Mandela, Dooley Wilson's Sam; *Previously on* Is there anybody going to listen to my story (362)) | Data, Lore, and Mandela (440) | #19 |
 | **Hopper's bug** (Nabokov, Callas, Bond, Hopper; then Levene, Blake, Pete Martell, the dolphins) | Бабочка (444), Put that coffee down (448) | #40, #46 |
+| **Closing Time** (Levene at the Cherry Orchard, 1981 BBC likenesses: Dench, Paterson, Walter; then Caine, Dhar Mann, the library; the Glengarry bar) | The Appointment (456) | #48 |
 
 ## Next
 
