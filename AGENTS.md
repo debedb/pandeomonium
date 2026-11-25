@@ -33,7 +33,30 @@ name is *pandemonium* with a *daemon* in it, and *pantheon* close by.
   Russian-language reference, check the Russian original before you "correct"
   it from English.
 - **Real people get drawn with care.** Likenesses should be recognizable. Use the
-  reference images the issue names.
+  reference images the issue names. When a role has many incarnations, use the
+  canonical one (*The Cherry Orchard* is the 1981 BBC production). Take refs from
+  real frames or photos of the actor in that role: a vague description drifts to
+  the nearest archetype (Carradine's Caine came out as Indiana Jones until the
+  hat went and his own face was used). Keep a character's trademark (Dhar Mann's
+  haircut, Kartsev's towel round his neck) and their nature (the blind readers
+  are drawn blind). If a canon likeness turns out wrong, fix it in the
+  published strip it came from.
+- **Never replay the source straight.** A run of panels that only restages a
+  source's own dramatic beat (Lopakhin and Varya's unspoken proposal) is
+  plagiarism, not Pandeomonium. The spine is catching humanity in its
+  confusion: plant witnesses (an owl at the window, a cat) or an intrusion
+  (Williamson leaning in: "we're insured"). Flag such runs at planning.
+- **The source's own words.** When a strip riffs on a text, letter snippets of
+  the original in its own language (Zhvanetsky in Russian), not a pastiche.
+  Spell names the source's way (Mamet's "Shelley Levene") and check
+  catchphrases ("Hi-dee-ho, neighbor").
+- **Props are the in-world thing.** The Hitchhiker's Guide on a desk is the
+  Guide itself, DON'T PANIC on its cover, not Adams's book.
+- **The roll is the roll.** A happy accident that fits the character can stay
+  (Levene pitching to Firs instead of Ranevskaya); polish can come later.
+- **Describe strips accurately.** When summarizing strips for anyone else,
+  attribute each line to whoever says it in the panel (Caine, not Master Po;
+  Cliff, not Newman).
 - **Continuity.** A recurring character looks the same in every strip. The
   first time a likeness appears in the series, it becomes the canon: later
   strips use a crop of that published strip as the reference, not a photo. The R's
@@ -92,6 +115,8 @@ Every new idea follows issue -> worktree -> PR -> artifact:
 5. **Ship.** On approval: publish the post, add a "next ->" link to the
    previous strip, add the strip to `SPINE.md`, merge the PR, and close the
    issue once its strips are out.
+   Remove the worktree and branch only after the PR shows MERGED: a refused
+   merge followed by a branch delete closes the PR unmerged.
 
 ## Tooling
 
@@ -106,6 +131,13 @@ Every new idea follows issue -> worktree -> PR -> artifact:
 - Canon likeness crops come from the published strip. Its image is the `<img>` in
   the post's content (`featured_image` can be empty). Crop out speech balloons,
   or the model copies them into the new panel.
+- When a prompt template substitutes cast names, keep that substitution out of
+  quoted prop text, or the model letters prompt text onto the prop (index cards
+  reading "Niles Crane (exactly as in his reference...").
+- Before generating, check that a copied run script writes to its own render
+  folder; a stale path overwrites another strip's panels.
+- The image-edit endpoint's moderation sometimes refuses a benign crop. If
+  rewording doesn't help, clone-patch neighbouring pixels instead.
 - `media/hq-<n>/` holds images re-hosted from the issues that migrated here
   (`hq-<n>` is the original issue number).
 
