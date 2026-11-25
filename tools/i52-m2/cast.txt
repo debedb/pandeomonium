@@ -1,0 +1,7 @@
+VERA=Vera Peterson (exactly as in her reference: late forties, auburn bob, tailored camel wool coat and scarf)
+WILSON=Wilson (exactly as in his reference: only a beige bucket hat, his eyes and the bridge of his nose visible above the top of a portable section of cedar fence that he carries with him; the rest of his face always hidden behind it)
+MARIS=Maris Crane (exactly as in her reference: razor-thin, sharp-featured, severe dark bob, thin titanium reading glasses, black leather gloves, yellow cashmere tracksuit with black side stripes)
+NILES=Niles Crane (exactly as in his reference: David Hyde Pierce: slim, thinning sandy hair, dark grey suit, burgundy tie, holding a silver umbrella and a tiny espresso cup)
+PIRANDELLO=Luigi Pirandello (exactly as in his reference photo: bald dome, white pointed goatee and moustache, piercing heavy-lidded eyes; a 1920s three-piece dark suit with a bow tie; an unlit cigarette; a sardonic half-smile)
+DIRECTOR=a slick, smiling TV director in his forties (designer glasses, black t-shirt under a blazer, headset around his neck)
+SHOWRUNNERS=three exhausted TV writers in hoodies and cardigans
