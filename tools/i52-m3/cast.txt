@@ -7,3 +7,6 @@ DIRECTOR=the TV director (exactly as in his reference: forties, designer glasses
 NORM=Norm Peterson (exactly as in his reference: George Wendt as Norm in Cheers: heavyset, round friendly face, dark curly hair; here in a tweed travel coat instead of his bar slump)
 DAPHNE=Daphne Moon (exactly as in her reference: Jane Leeves in Frasier: long wavy brown hair, denim shirt over a white top)
 OWL=the eagle-owl (exactly as in the owl reference: large Eurasian eagle-owl with ear tufts and orange eyes)
+PLAYER=the Player (exactly as in his reference: Richard Dreyfuss as the Player in Rosencrantz and Guildenstern Are Dead (1990): wide-brimmed battered felt hat, long grey hair, short white beard, green brocade coat over a rust leather jerkin, long scarf, gloved hand on a walking cane)
+ROS=Rosencrantz (exactly as the red-curly-haired man in the reference: wild red curls, burgundy striped Elizabethan doublet, now ragged, frayed and snow-dusted)
+GUIL=Guildenstern (exactly as the long-dark-blond-haired man in the reference: shoulder-length dark blond hair, black-and-gold Elizabethan doublet under a dark cloak, now ragged, frayed and snow-dusted)
