@@ -8,8 +8,9 @@ refs(){ case $1 in
   3) echo $R/c-vera.png $R/norm.png $R/c-maris.png $R/c-niles.png;;
   4) echo $R/c-vera.png $R/norm.png $R/c-maris.png $R/c-niles.png;;
   5) echo $R/player.png $R/c-vera.png $R/norm.png $R/c-maris.png $R/c-niles.png;;
-  6) echo $R/player.png $R/c-rg.png $R/c-wilson.png $R/owl1.png $R/c-maris.png $R/norm.png;;
-  7a|7b) echo $R/c-rg.png;;
+  6) echo $R/player.png $R/oldman-ros.png $R/roth-guil.png $R/c-wilson.png $R/owl1.png $R/c-maris.png $R/norm.png;;
+  7a) echo $R/oldman-ros.png;;
+  7b) echo $R/roth-guil.png;;
 esac; }
 for i in ${@:-3 4 5 6 7a 7b}; do
   python3 - "$P" $i > pr-$i.txt <<'PY'

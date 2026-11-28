@@ -11,11 +11,11 @@ TEXT = {"c1.png": [(300, 80, ["No more voice-from-the-kitchen.", "No more whippe
         "c2.png": [(610, 45, ["You spent a decade telling the audience", "I was invisible. Take a good look."], (442, 90), 13),
                    (640, 320, ["Okay! No more off-screen gags!", "What do you want \u2014 a spin-off?", "A redemption arc?"], (560, 250), 12),
                    (230, 440, ["We want the keys to the exits.", "And cancel the holiday special."], (395, 125), 12)],
-        "c3.png": [(110, 32, ["Ready to blow this", "joint, Vera?"], (235, 95), 13),
-                   (90, 240, ["Best exit I ever", "made, Norm."], (120, 170), 13),
-                   (585, 262, ["Keep up, Niles."], (470, 125), 13)],
+        "c3.png": [(110, 40, ["Ready to blow this", "joint, Vera?"], (240, 105), 13),
+                   (80, 268, ["Best exit I ever", "made, Norm."], (128, 232), 13),
+                   (520, 40, ["Keep up, Niles."], (590, 105), 13)],
         "c5.png": [(305, 45, ["Every exit is an entrance...", "somewhere else."], (165, 135), 14)],
-        "c6.png": [(450, 215, ["Hi-dee-ho, neighbor."], (430, 270), 13)]}
+        "c6.png": [(400, 262, ["Hi-dee-ho, neighbor."], (380, 318), 13)]}
 
 
 def fit(src, w, h, ty=0.5):
